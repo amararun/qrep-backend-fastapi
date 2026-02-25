@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+debug.log
+
+# Reports (generated files)
+static/reports/*.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude AI context
+.claude/
+CLAUDE.md
